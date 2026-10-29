@@ -1,5 +1,21 @@
 # FairPlay update log
 
+## 0.1.4
+- **New look:** new FairPlay logo and app icon.
+- **Your music, properly:** song names, artists and cover art are read from your music files. Add as many music folders as you like, and browse them by folder.
+- **Playlists:** make a playlist from a whole folder or a playlist file (.m3u) in one go. FairPlay says so if there's no music in it. You can also add songs one by one, drag them in, put them in order, and save a playlist as a file.
+- **A playlist for each ride:** give a ride its own playlist, and switching ride switches the music.
+- **Crossfade:** songs blend into each other with no silent gaps (set how long on the Music screen).
+- **Even out volume:** quiet and loud songs play at the same level, and silence at the start and end of songs is skipped.
+- **Up next:** pick songs to play next, see what's coming, and choose "Stop after this song".
+- **Shuffle, repeat, favourites, recently added and most played**, plus search and sorting by song, artist, album and more. Right-click a song for more options, or pick "Don't play this in the mix".
+- **Library tab:** Music and Jingles are now together in one tab, with a button for each at the top.
+- **More pads per bank:** choose 12, 16, 20, 24, 32 or 48 pads in each bank (Settings › Jingle pads).
+- **Your files in Documents:** your music, jingles and documents now live in Documents › FairPlay, in Music, Jingles and Documents folders. Your existing jingles and documents move there automatically, and your pads and settings stay just as they were.
+- **Tidier Settings**, and a new **About** page with the version, updates, licence terms and this update log.
+- **Fixed:** backups now include the jingle sounds for every ride.
+- The Spotify setup checklist no longer tells you to turn off explicit content. That's up to you.
+
 ## 0.1.3
 - **Spotify keeps going:** if the music stops on its own, FairPlay can restart it (with 10 seconds to cancel), reopen Spotify if it closed, or switch to backup music files.
 - **Spotify opens with FairPlay**, and can press play for you.
