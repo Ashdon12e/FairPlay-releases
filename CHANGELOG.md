@@ -1,5 +1,15 @@
 # FairPlay update log
 
+## 0.1.5
+- **FairPlay is now free.** No trial and no licence key: everything works for everyone.
+- **Riders & takings:** a new counter on the Console. Tap **+1** for each rider (or press **+**, or **Ctrl+Alt+=** when FairPlay is minimised). Set a price per rider for each ride, and see riders, takings and rides run for the day.
+- **Takings history:** every day by ride and ground, with totals. Save it as a spreadsheet for your books.
+- **Phone remote:** control FairPlay from your phone over the PC's Wi-Fi or hotspot. Fire jingles, skip songs, change the volume, start rides and count riders. Turn it on in Settings › Phone remote, scan the QR code and enter the PIN.
+- **Turning Spotify down is quicker and more reliable.** FairPlay now uses its own built-in helper, and it works on laptops in Windows S mode too.
+- **On the Microsoft Store:** FairPlay is getting ready for the Microsoft Store, where it's signed by Microsoft and updates itself.
+- **New loading screen** with the FairPlay logo while it starts up.
+- The licence terms have been updated now that FairPlay is free.
+
 ## 0.1.4
 - **New look:** new FairPlay logo and app icon.
 - **Your music, properly:** song names, artists and cover art are read from your music files. Add as many music folders as you like, and browse them by folder.
